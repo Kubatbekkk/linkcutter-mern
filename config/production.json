@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "kubat youtube mern",
+  "mongoUri": "mongodb+srv://Kubat:thisis2012love@cluster0.jpwno.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
